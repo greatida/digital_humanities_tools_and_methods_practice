@@ -1,4 +1,5 @@
 # digital_humanities_tools_and_methods_practice
+This repository contains the data of United States General Election 2016 Results.
 
 ## Topic
 2016 US presidential election
