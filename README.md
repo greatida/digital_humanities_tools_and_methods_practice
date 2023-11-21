@@ -8,6 +8,16 @@ Do individuals from the Southern regions of the United States exhibit a higher t
 
 Furthermore, a reflection of the RQ could be made based on the research question. For example: the cultural difference between the South and the North of U.S may cause American people's party election tendency.
 
+## Variables
+Columns as variables.
+|     Header     |         Description         | Data Type |
+|:--------------:|:---------------------------:|:---------:|
+|    StateName   |  name of states in the U.S  |    text   |
+|   CountyName   | name of counties in the U.S |    text   |
+|      Party     |        name of party        |    text   |
+| PartyCandidate |   name of party candidate   |    text   |
+|    VoteCount   |         vote volume         |   number  |
+
 ## Exisiting Research
 Research materials included but not limited:
 - Politics of the Southern United States
