@@ -4,6 +4,10 @@ This repository contains the data of United States General Election 2016 Results
 ## Topic
 2016 US presidential election
 
+## Context
+
+Voting patterns in elections are frequently shaped by cultural and societal factors, with notable distinctions between the South and the North of America, particularly since the significant event of the "American Civil War." The historical, cultural, and societal contexts play pivotal roles in shaping voters' preferences.
+
 ## Research Question
 Do individuals from the Southern regions of the United States exhibit a higher tendency to vote for Republicans compared to those from the Northern regions?
 
